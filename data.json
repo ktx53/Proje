@@ -1,0 +1,37 @@
+{
+    "sorular":[
+        {
+            "soru": "Risk ve getiri tercihiniz nedir?",
+            "secenekA": "Olabildiğince riskten kaçınır, güvenli yatırım araçlarını tercih eder, az ama düzenli bir getiri sağlamayı tercih ederim. (Anaparam aynen korunsun)",
+            "secenekB": "Enflasyonun üzerinde getiri beklentisiyle, yatırımımda düşük riskli ürünlere yatırım yapabilirim. (Anaparadan çok az bir miktar kaybetmeyi göze alabilirim)",
+            "secenekC": "Genel olarak orta riskli ürünleri tercih etmekle beraber, uzun vadede toplam getirimi artırmak amacıyla, riskli ürünlere makul ölçüde yatırım yapabilirim. (Anaparadan bir miktar kaybetmeyi göze alabilirim)",
+            "secenekD": "Yüksek getiri beklentisiyle, yüksek riskli ürünlere yatırım yapabilirim (Anaparadan kaybetmeyi göze alabilirim)",
+            "dogruCevap": "secenekC"
+        },
+        {
+            "soru": "Bir arkadaşınız, kâr etme ihtimalinizin yüzde 80 olduğu bir yatırıma toplam sermayenizin yüzde 15’ini yatırmanızı teklif etseydi cevabınız ne olurdu?",
+            "secenekA": "Kar oranı en az yatırdığım miktarın 2 katı olmalı",
+            "secenekB": "Kar oranı en az yatırdığım miktarın 5 katı olmalı",
+            "secenekC": "Kar oranı en az yatırdığım miktar kadar olmalı",
+            "secenekD": "Hiçbir kar oranı böyle bir risk almaya değmez",
+            "dogruCevap": "secenekC"
+        },
+        {
+            "soru": "Portföyünüzdeki bir hisse senedi siz satın aldıktan altı ay sonra iki katına çıkarsa ne yaparsanız??",
+            "secenekA": "Hepsini satarım",
+            "secenekB": "Yatırdığım kısmını satarım",
+            "secenekC": "Satış yapmam",
+            "secenekD": "Biraz daha alırım",
+            "dogruCevap": "secenekD"
+        },
+
+        {
+            "soru": "Bir hisse senedi almak üzere olduğunuz varsayın. Faaliyet gösterdikleri sektörlerden bağımsız olarak hangi şirketi seçersiniz?",
+            "secenekA": "Temettü ödüyen köklü şirketleri",
+            "secenekB": "F/pk ya göre fiyatı düşük kalmış hisseleri",
+            "secenekC": "Sektörde önde gelen yüksek hacimli şirketi",
+            "secenekD": "Gelişmekte olan yeni kurulmuş bir şirketi",
+            "dogruCevap": "secenekD"
+        }
+    ]
+}
