@@ -10,7 +10,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(165, 164, 164);
     font-family: 'Barlow Condensed', sans-serif;
     font-family: 'Josefin Sans', sans-serif;
     font-family: 'Noto Sans JP', sans-serif;
@@ -57,17 +57,10 @@ header{
     margin-bottom: 5px;
     
 }
-#Hresim{
-    width: 100%;
-    height: 250px;
-    
-    
-
-}
 section{
     width: 100%;
     height: auto;
-    background-color: cornsilk;
+    background-color: rgb(255, 255, 255);
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     margin-top: 15px;
@@ -99,8 +92,8 @@ nav li a {
     display: block;
 }
 nav li a:hover{
-    color: blanchedalmond;
-    background-color: rgb(122, 0, 0);
+    color: rgb(255, 28, 28);
+    background-color: rgb(185, 185, 185);
 }
 i{
     margin-right: 12px;
@@ -133,18 +126,18 @@ main{
 }
 h5{
     margin: 10px;
-    color: crimson;
+    color: rgb(0, 0, 0);
 }
 .icerikYazı{
     margin: 10px;
-    color: crimson;
+    color: rgb(0, 0, 0);
 }
 .butond:link{
     display: block;
     width: 150px;
     height: 45px;
     padding: 10px 20px ;
-    background-color: darkmagenta;
+    background-color: rgb(185, 185, 185);
     color: white;
     text-decoration: none;
     margin: 15px;
@@ -210,7 +203,7 @@ h1{
     text-align: center;
     height: 45px;
     line-height: 45px;
-    background-color: rgb(182, 0, 0);
+    background-color: rgb(185, 185, 185);
     width: 100%;
     margin-top: -5px;
     
@@ -231,7 +224,7 @@ iframe{
     height: auto;
     margin: auto;
     margin-top: 10px;
-    background-color: rgb(167, 167, 167);
+    background-color: rgb(185, 185, 185);
     padding: 10px;
     
 }
@@ -239,7 +232,7 @@ iframe{
     width: 49%;
     float: left;
     height: 750px;
-    border: 1px solid #d8d8d8;
+    border: 1px solid #fffcfc;
     padding: 10px;
     margin-right: 10px;
 
@@ -270,7 +263,7 @@ input[type=text],textarea{
     display: block;
 }
 input[type=sumbit]{
-    background-color: brown;
+    background-color: rgb(197, 1, 1);
     color: white;
     padding: 12px 20px;
     border:none;
